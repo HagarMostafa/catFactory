@@ -1,3 +1,3 @@
-# catFactory
+# catFactory 🐈🐈🐈
 
 Neural networks project
